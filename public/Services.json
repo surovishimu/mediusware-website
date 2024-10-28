@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Software Development",
+    "description": "Relieve the Burden of Software Development and Project Management.",
+    "image_url": "https://s3-alpha-sig.figma.com/img/07a4/7ee6/1d0f709ef11dcfd6572701e13945ed57?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=K7-51r~ng0QZyHba-MXrQq~qaTPQBHmn8P6iV0Yo1eA7LC0AGVexwkrLvWEBbpgQq7aKsY32c4NLA3Ron06R7PZt5DZrxL~RhGZCBrhaXu~9Q8gdOigaBn9kDgcqp1GLfZZr-kYWfsOD8EkcGsvDkS0oNODgFUv-zVGM4O1kUko8PX21yIh7tvLfZ38Xe6dMyPlbKjL-kzPJ~0~C034ySLYYHe8bn4gm7KwnRB0xSvY8FH5N8JKJOnoD-rSb-ila5rabmPUSGiyAxm7UtiBjACUhladIqNTZ4LCWgYvDxeULmIZbzo4J2yKRQvytZTX7Vu8ZJ6ZfhRJh~-Sao~mHgg__"
+  },
+  {
+    "id": 2,
+    "title": "Web Development",
+    "description": "We offer One-of-a-Kind web development solutions to businesses all around the world. Our ...",
+    "image_url": "https://s3-alpha-sig.figma.com/img/2fb4/5f15/786242202412b7d40677697ecc1efec6?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Tm~wIhQus42hzw-Zs~iO4h26zmhhNNXPGSQGN185PqmF6tkY3p3oXrDE4BTMF31hkbFwbwhunVoax7wd5ljYTF16Hu3J~lS2edIWBDMwnqWTo-QIpvAFRxuLejZo~zhY6D-U7DzH6XDJxpmhWWmgUgLZPSkkTid1bUBrZRcAzh3-ZUeYFIJhTcuB3RZMxnCZXOqAr3TnpVShuggcwr7~mn-G5UvETfkWdk5D7zKVFrFTGYKXt7ToOpFSNtCZ0V-p6MSmlYzXyGxKx148V~9y4WpCpKDHV1vpU0CulVuXzabRyBA~BOlYRxqZU7bPrRRVefKhE9lAftRygF2DcjFKvQ__"
+  },
+  {
+    "id": 3,
+    "title": "Mobile App Development",
+    "description": "Innovative solutions tailored to your needs, delivering seamless user experiences.",
+    "image_url": "https://s3-alpha-sig.figma.com/img/8c59/2cda/90361d3527ec5f63c6681b8680407f24?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UNLUmLo-FVk7xv7EcUFfiremUmsbsR3OcXNINxvs6WSyqjaeF1WAyFxAQPoekClAJxTYGMOcPpfsZ5r~dYxbzkILjEJpd0KHkOdqKaTOn3fNRmuesFI71webOlWkc5XrksRJw0TAqTjzh3fzw5D1bcDzGYH2wGY4wXtDnoC9DF3QLKPMUeJeYUo2EemH75~nQr3W-0gAfJi~wxBJP79Yja9fwcU5vZwhs~RoetI8~COeoz8~~oh~eMf27ynfca8f6ueVm9u6aR~5U-qvt~3IJqG6rGbczwEDIvFvvKEyajpltYlKAah2plivlkFp0h5~L2QmAOq~VZbf3r4VfAMXkw__"
+  },
+  {
+    "id": 4,
+    "title": "E-commerce Solution",
+    "description": "E-commerce websites need to be user-friendly, but attractive at the same time.",
+    "image_url": "https://s3-alpha-sig.figma.com/img/1f06/e60c/293ea4e69e3c6d5dc8002963fdd6da16?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=klQ~D0eyQewkcbO3yne-Y~pAyXrXZdVDayN04BRSCeAzrB3w0qLp2ZJX1VMAQlL3Y5f1fXb4R4Fmq0A4WCCJX11Giv0QOPrE9CK~Mb2QxKbNteFpXIF5Z1Jhfe2FTIGAHUQhiYVteVCsLI6EfyuuI3svLxWwQFxVCCTqaIsfEtAzabYrgXVT23hBXLZeNDBWGpgUiqCiF83cC8idbgiPpAAvDfVLylDw8ez5O8p8zuhKJ5yz7-j1WnoJDi50zi1XnxK2rKRnyqGiOlV8Ig0g3nnS1MwzPs0NjRtH3EjKywPJCbmjTbNrUQ~EzsZkikiDt7nOl2KF6xfgrUY5oFnMZQ__"
+  },
+  {
+    "id": 5,
+    "title": "UI/UX Design",
+    "description": "Crafting interfaces that enhance user experiences, elevating brand engagement effortlessly.",
+    "image_url": "https://s3-alpha-sig.figma.com/img/8147/afd9/cedd3fa805e9dfaa32ea7d474142bf81?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RigkKbARR54F-MmxsG6WJMRBIAqDJV21hvxWUVKGSpjf1XMS--mHakOS8yOu~AL29BtUuOPCTTSiYjxjTiZNqCXbSb6CBCpWB8YQWx~1eDoyg8phQsiRkISmxhDO51pi-iRBlVz-aZvNP2bpl1Rns7M9mAtfz47FvH9sLJGNvfprqv8Hwu7j~KAwwyqvt5Hb6S8HHTyXKfYhsOdm29aZtCtAv2eyfAQgGq47K--SvRm7c6sfM9anJpM45hBoi78fR1MNSn6uCLBgwLzxvqU3j6q4cs-Sv-bTtC8~pdYOt5p2k7mlzjYPs4eR-jLUBqFOUIK-ABh1zbz4KLu1M1KNJg__"
+  },
+  {
+    "id": 6,
+    "title": "API Integration",
+    "description": "Bridging platforms for effortless data flow, enabling enhanced operational efficiency.",
+    "image_url": "https://s3-alpha-sig.figma.com/img/2f2a/11d3/7b65bfd124fed88d1e912b64385bbe01?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kQm6U7HhE3VgvqCgfCT2YD-k3Ujprfec2Mft2gMwwd4Tt4crawPqqNTn36~PFI0l328SZAyvNGOxVMh~JVh-Smenx6mbgZhKGP6SY8xOzOnTF1W7k3QE3qCR49hMGyNLGLvvmj-JDfJtASSMS363KTHUxeBtLlnKacfAjat3Ajq2nlP6NTrE8JgyZyKg~l6BBGsJrVfqFVSxh3WB57-OvJczvQbr7ZbZIe0~ty0NSoQXA-2uU4cu91CRHT~HDPR430SeFlara4wS7Ftcj6NJnAD9db4ZKsgUiTOTPnGXavKp-o-IHZFe25A-ouwUkhl9e9wiPkfVfwBM2OZIpeP4Gg__"
+  }
+]
