@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import { CiCalendar } from "react-icons/ci";
-import logo from "../../assets/images/Logo.svg";
+import logo from "/images/Logo.svg";
 import { IoIosArrowDown } from "react-icons/io";
 
 const Navbar = () => {
