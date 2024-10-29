@@ -3,6 +3,7 @@ import Awards from "./Awards/Awards";
 import Banner from "./Banner";
 import Experties from "./Expertices/Experties";
 import Feedback from "./Feedback/Feedback";
+import Inquiry from "./Inquiry/Inquiry";
 import Projects from "./Projects/Projects";
 import Query from "./Query/Query";
 import ShortIntro from "./ShortIntro/ShortIntro";
@@ -19,6 +20,7 @@ const Home = () => {
       <Projects></Projects>
       <Awards></Awards>
       <Query></Query>
+      <Inquiry></Inquiry>
     </div>
   );
 };
