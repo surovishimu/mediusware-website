@@ -23,7 +23,7 @@ const Banner = () => {
             Our global journey needs your expertise. Align with our brand ethos
             and help us reach new heights across the world.
           </p>
-          <button className="btn btn-sm btn-accent mt-6">
+          <button className="btn btn-sm bg-[#0C98EB] border-none text-white font-thin mt-6">
             <BiPhoneCall />
             Talk to Someone
           </button>

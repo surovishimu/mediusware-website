@@ -98,7 +98,7 @@ const Navbar = () => {
   );
 
   return (
-    <div className="navbar lg:px-28 md:px-10 opacity-75 absolute z-10">
+    <div className="navbar xl:px-44 lg:px-28 md:px-10 opacity-75 absolute z-10 ">
       <div className="navbar-start">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="text-white lg:hidden">
@@ -125,13 +125,13 @@ const Navbar = () => {
           </ul>
         </div>
         <img
-          className="h-9 lg:ml-0 md:ml-48 ml-16"
+          className="h-9 xl:-ml-28 lg:ml-0 md:ml-48 ml-16"
           src={logo}
           alt=""
           srcset=""
         />
       </div>
-      <div className="navbar-center hidden lg:flex">
+      <div className="navbar-center hidden lg:flex xl:mr-14 lg:mr-0 md: mr-0">
         <ul className="menu menu-horizontal px-1 gap-x-5">{navLinks}</ul>
       </div>
       <div className="navbar-end">

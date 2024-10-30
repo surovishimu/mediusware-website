@@ -1,3 +1,4 @@
+import { Helmet } from "react-helmet-async";
 import Navbar from "../../Shared/Navbar";
 import Awards from "./Awards/Awards";
 import Banner from "./Banner";
@@ -12,6 +13,9 @@ import TeamWork from "./TeamWork/TeamWork";
 const Home = () => {
   return (
     <div>
+      <Helmet>
+        <title>Mediusware | Home</title>
+      </Helmet>
       <Banner></Banner>
       <Experties></Experties>
       <ShortIntro></ShortIntro>
